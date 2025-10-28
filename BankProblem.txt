@@ -1,0 +1,302 @@
+security_van_capacity: 295
+bags:
+  bag_1:
+    weight: 9.4
+    value: 57
+  bag_2:
+    weight: 7.4
+    value: 94
+  bag_3:
+    weight: 7.7
+    value: 59
+  bag_4:
+    weight: 7.4
+    value: 83
+  bag_5:
+    weight: 2.9
+    value: 82
+  bag_6:
+    weight: 1.1
+    value: 91
+  bag_7:
+    weight: 7.3
+    value: 42
+  bag_8:
+    weight: 9.0
+    value: 84
+  bag_9:
+    weight: 8.1
+    value: 85
+  bag_10:
+    weight: 7.2
+    value: 18
+  bag_11:
+    weight: 7.5
+    value: 94
+  bag_12:
+    weight: 4.2
+    value: 18
+  bag_13:
+    weight: 4.4
+    value: 31
+  bag_14:
+    weight: 5.7
+    value: 27
+  bag_15:
+    weight: 2.0
+    value: 31
+  bag_16:
+    weight: 2.0
+    value: 42
+  bag_17:
+    weight: 9.9
+    value: 58
+  bag_18:
+    weight: 9.5
+    value: 57
+  bag_19:
+    weight: 5.2
+    value: 55
+  bag_20:
+    weight: 7.1
+    value: 97
+  bag_21:
+    weight: 6.8
+    value: 79
+  bag_22:
+    weight: 1.6
+    value: 10
+  bag_23:
+    weight: 7.9
+    value: 34
+  bag_24:
+    weight: 3.0
+    value: 100
+  bag_25:
+    weight: 1.6
+    value: 98
+  bag_26:
+    weight: 9.0
+    value: 45
+  bag_27:
+    weight: 2.1
+    value: 19
+  bag_28:
+    weight: 4.9
+    value: 77
+  bag_29:
+    weight: 7.0
+    value: 56
+  bag_30:
+    weight: 6.8
+    value: 25
+  bag_31:
+    weight: 7.7
+    value: 60
+  bag_32:
+    weight: 2.1
+    value: 22
+  bag_33:
+    weight: 8.4
+    value: 84
+  bag_34:
+    weight: 1.9
+    value: 89
+  bag_35:
+    weight: 6.5
+    value: 12
+  bag_36:
+    weight: 3.8
+    value: 46
+  bag_37:
+    weight: 2.5
+    value: 20
+  bag_38:
+    weight: 4.3
+    value: 85
+  bag_39:
+    weight: 9.9
+    value: 42
+  bag_40:
+    weight: 8.5
+    value: 94
+  bag_41:
+    weight: 8.0
+    value: 20
+  bag_42:
+    weight: 1.0
+    value: 65
+  bag_43:
+    weight: 4.4
+    value: 27
+  bag_44:
+    weight: 2.6
+    value: 34
+  bag_45:
+    weight: 2.1
+    value: 27
+  bag_46:
+    weight: 7.4
+    value: 91
+  bag_47:
+    weight: 1.5
+    value: 17
+  bag_48:
+    weight: 2.2
+    value: 56
+  bag_49:
+    weight: 8.1
+    value: 23
+  bag_50:
+    weight: 7.9
+    value: 89
+  bag_51:
+    weight: 1.5
+    value: 18
+  bag_52:
+    weight: 3.5
+    value: 11
+  bag_53:
+    weight: 2.4
+    value: 91
+  bag_54:
+    weight: 1.6
+    value: 79
+  bag_55:
+    weight: 4.3
+    value: 14
+  bag_56:
+    weight: 7.5
+    value: 99
+  bag_57:
+    weight: 2.5
+    value: 45
+  bag_58:
+    weight: 7.6
+    value: 73
+  bag_59:
+    weight: 4.8
+    value: 81
+  bag_60:
+    weight: 6.5
+    value: 96
+  bag_61:
+    weight: 1.5
+    value: 51
+  bag_62:
+    weight: 2.3
+    value: 96
+  bag_63:
+    weight: 1.0
+    value: 63
+  bag_64:
+    weight: 8.1
+    value: 40
+  bag_65:
+    weight: 8.1
+    value: 93
+  bag_66:
+    weight: 6.7
+    value: 87
+  bag_67:
+    weight: 5.8
+    value: 71
+  bag_68:
+    weight: 7.7
+    value: 54
+  bag_69:
+    weight: 4.9
+    value: 74
+  bag_70:
+    weight: 1.6
+    value: 15
+  bag_71:
+    weight: 6.5
+    value: 32
+  bag_72:
+    weight: 7.4
+    value: 57
+  bag_73:
+    weight: 1.4
+    value: 70
+  bag_74:
+    weight: 4.1
+    value: 62
+  bag_75:
+    weight: 7.4
+    value: 12
+  bag_76:
+    weight: 7.4
+    value: 71
+  bag_77:
+    weight: 1.7
+    value: 57
+  bag_78:
+    weight: 1.2
+    value: 97
+  bag_79:
+    weight: 9.5
+    value: 48
+  bag_80:
+    weight: 1.9
+    value: 33
+  bag_81:
+    weight: 7.5
+    value: 42
+  bag_82:
+    weight: 6.1
+    value: 25
+  bag_83:
+    weight: 5.9
+    value: 59
+  bag_84:
+    weight: 3.7
+    value: 91
+  bag_85:
+    weight: 7.5
+    value: 17
+  bag_86:
+    weight: 9.0
+    value: 63
+  bag_87:
+    weight: 1.7
+    value: 81
+  bag_88:
+    weight: 7.9
+    value: 49
+  bag_89:
+    weight: 1.5
+    value: 60
+  bag_90:
+    weight: 7.8
+    value: 90
+  bag_91:
+    weight: 7.6
+    value: 87
+  bag_92:
+    weight: 9.3
+    value: 25
+  bag_93:
+    weight: 9.8
+    value: 15
+  bag_94:
+    weight: 8.0
+    value: 20
+  bag_95:
+    weight: 3.3
+    value: 76
+  bag_96:
+    weight: 3.9
+    value: 76
+  bag_97:
+    weight: 9.6
+    value: 53
+  bag_98:
+    weight: 7.1
+    value: 59
+  bag_99:
+    weight: 3.9
+    value: 40
+  bag_100:
+    weight: 3.9
+    value: 59
